@@ -15,3 +15,5 @@ Programming Languages: HTML,TailwindCSS,JavaScript,Python.
 Frontend Libraries: React.js
 Frameworks: Next.js,Genkit.
 Backend: Node.js (runtime environment for Next.js and Genkit).
+
+Project is not ready yet
