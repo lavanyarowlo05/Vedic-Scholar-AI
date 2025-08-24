@@ -39,11 +39,13 @@ Make sure you have the following installed:
 
 1. Clone the repository:  
    ```bash
-
+   git clone https://github.com/your-username/Vedic-Scholar-AI.git
+   cd Vedic-Scholar-AI
+   
 2. Install dependencies:
 
 npm install
-# or
+#### or
 yarn install
 
 3. Set up Firebase configuration in .env.local
@@ -51,7 +53,7 @@ yarn install
 4. Run the development server:
 
 npm run dev
-# or
+#### or
 yarn dev
 
 
