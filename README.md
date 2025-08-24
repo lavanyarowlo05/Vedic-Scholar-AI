@@ -19,7 +19,7 @@
 
 ## 🛠️ Technology Stack  
 
-- **Programming Languages**: `HTML`, `TailwindCSS`, `JavaScript`, `Python`  
+- **Programming Languages**: `HTML`, `TailwindCSS`, `JavaScript`  
 - **Frontend**: `React.js`  
 - **Frameworks**: `Next.js`, `Genkit`  
 - **Backend**: `Node.js`  
